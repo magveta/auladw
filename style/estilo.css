@@ -2,6 +2,10 @@ h1 {
     color: blueviolet;
 }
 
+body {
+    background-color: chartreuse;
+}
+
 p {
     color:red;
     text-align: left;
